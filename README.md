@@ -1,5 +1,9 @@
 # Krishi Mitra (Farm Friend)
 
+## Team Name
+
+Tech-Heroes
+
 ## Overview
 
 Krishi Mitra is a comprehensive digital platform designed to revolutionize farming practices in India. This Public-Private Partnership (PPP) model application aims to empower farmers with real-time information, tools, and resources to enhance agricultural productivity, sustainability, and profitability.
